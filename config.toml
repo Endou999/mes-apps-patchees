@@ -28,6 +28,7 @@ cli-source = "MorpheApp/morphe-cli"
 rv-brand = "Brosssh"
 build-mode = "apk"
 arch = "arm64-v8a"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/hevy-gym-workout-tracker/hevy-gym-log-workout-tracker/"
 uptodown-dlurl = "https://hevy.en.uptodown.com/android"
 
 [Calistree]
@@ -38,6 +39,24 @@ rv-brand = "Brosssh"
 build-mode = "apk"
 arch = "arm64-v8a"
 uptodown-dlurl = "https://calistree-bodyweight-fitness.en.uptodown.com/android"
+
+[Photomath]
+app-name = "Photomath"
+patches-source = "RookieEnough/De-ReVanced"
+cli-source = "MorpheApp/morphe-cli"
+rv-brand = "DeReVanced"
+build-mode = "apk"
+arch = "arm64-v8a"
+uptodown-dlurl = "https://photomath.en.uptodown.com/android"
+
+[ProtonVPN]
+app-name = "ProtonVPN"
+patches-source = "hoo-dles/morphe-patches"
+cli-source = "MorpheApp/morphe-cli"
+rv-brand = "Hoodles"
+build-mode = "apk"
+arch = "arm64-v8a"
+uptodown-dlurl = "https://protonvpn.en.uptodown.com/android"
 
 [YouTube]
 enabled = false
