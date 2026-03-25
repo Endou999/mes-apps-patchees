@@ -82,32 +82,17 @@ build-mode = "apk"
 uptodown-dlurl = "https://amazon-prime-video.en.uptodown.com/android"
 
 # ==========================================
-# 4. REVANCED OFFICIEL (Tiktok, Twitch, Spotify)
+# 4. APPLICATIONS DÉSACTIVÉES (Gain de temps & DMCA)
 # ==========================================
 [TikTok]
 enabled = false
-app-name = "TikTok"
-build-mode = "apk"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/tiktok-pte-ltd/tiktok/"
-uptodown-dlurl = "https://tiktok.en.uptodown.com/android"
-
 [Twitch]
-app-name = "Twitch"
-build-mode = "apk"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/twitch-interactive-inc/twitch/"
-uptodown-dlurl = "https://twitch.en.uptodown.com/android"
-
-[Spotify]
-app-name = "Spotify"
-build-mode = "apk"
-uptodown-dlurl = "https://spotify.en.uptodown.com/android"
-
-# ==========================================
-# DESACTIVATION DES APPS INUTILES POUR GAGNER DU TEMPS
-# ==========================================
+enabled = false
 [YouTube]
 enabled = false
 [Music]
+enabled = false
+[Spotify]
 enabled = false
 [Twitter]
 enabled = false
