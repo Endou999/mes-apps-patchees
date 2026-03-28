@@ -1,5 +1,5 @@
 Calistree: 4.17.8  
-GooglePhotos: 7.68.0.884121604  
+GooglePhotos: 7.69.0.888996316  
 Reddit-Morphe: 2026.04.0  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
